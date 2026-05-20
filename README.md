@@ -61,7 +61,7 @@ cd [repo name]
 -m streamlit run [path to app]
 ```
 
-**bonus**:
+## bonus:
 
 to make a virtual environment:
 
