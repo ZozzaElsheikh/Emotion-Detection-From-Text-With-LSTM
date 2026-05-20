@@ -93,4 +93,5 @@ This is the visual app that provides a text box for the user to provide their in
 
 ## Acknowledgements
 Dataset: [Emotions Dataset for NLP - Kaggle](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
+
 G1ove source: [G1ove Embeddings](https://nlp.stanford.edu/projects/glove/)
