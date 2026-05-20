@@ -62,6 +62,7 @@ cd [repo name]
 ```
 
 **bonus**:
+
 to make a virtual environment:
 
 ## windows
