@@ -1,0 +1,14 @@
+Python 3.11
+Tensorflow / Keras
+NumPy
+Pandas
+streamlit
+NLTK
+Matplotlib
+seaborn
+Scikit-learn
+
+# To install all dependencies:
+```bash
+pip install -r requirements.txt
+```
