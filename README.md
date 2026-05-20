@@ -3,7 +3,7 @@
 A Deep Learning Project for Detecting Emotion from Text with LSTM. It classifies emotions into 6 categories (joy, fear, sadness, anger, love, surprise) built with TensorFlow and keras and deployed as an interactive web app using streamlit
 
 ## Author:
-Hamza Esheikh (AAST Student) | LinkedIn: [Hamza-Elsheikh](www.linkedin.com/in/hamza-elsheikh)
+Hamza Elsheikh (AAST Student) | LinkedIn: [Hamza-Elsheikh](www.linkedin.com/in/hamza-elsheikh)
 
 ## The Problem?
 Computers don't understand human emotions naturally so emotion detection tries to identify these feelings from data such as text messages, video subtitles, tweets, etc...
